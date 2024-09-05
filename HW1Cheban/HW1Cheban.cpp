@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout << "First commit!!";
+    cout << "First commit!!" << endl;
+    cout << "Second commit!!!";
 }
 
